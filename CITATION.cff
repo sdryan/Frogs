@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Frog Paper Github by Gibson and Ryan
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Shawn
+    family-names: Ryan
+    orcid: 'https://orcid.org/0000-0003-2468-1827'
+    affiliation: Cleveland State University
+repository-code: 'https://github.com/sdryan/Frogs'
+abstract: >-
+  Repository containing Matlab code and movies for Gibson et
+  al. 2025
+license: Apache-2.0
